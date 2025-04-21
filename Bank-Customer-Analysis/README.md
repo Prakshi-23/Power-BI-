@@ -1,5 +1,5 @@
 ### Bank Dashboard Analysis 💰
-
+---
 This project presents a visual analysis of customer data from **HDFC Bank 🏦** using a dynamic and interactive dashboard.
 
 ## Dashboard Overview 📊
