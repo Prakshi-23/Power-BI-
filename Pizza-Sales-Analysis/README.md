@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for your **Pizza Sales Analysis** project:
-
----
-
 # 🍕 Pizza Sales Analysis Dashboard
 
 A Power BI dashboard project to analyze pizza sales data and extract meaningful business insights, helping stakeholders make data-driven decisions to boost performance and profitability.
