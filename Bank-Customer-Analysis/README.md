@@ -22,6 +22,13 @@ The dashboard provides key insights into customer demographics, account balances
 - **Age Groups**: Young Adults, Middle-aged, Seniors 📊  
 - **Income Brackets**: <50K, 50K-100K, 100K-150K, None 💵  
 
+## Dashboard Preview 🖼️
+
+![Bank Dashboard](images/bank_customer_analysis.png)
+
+Here’s a preview of the interactive dashboard showcasing customer demographics and financial data.
+
+
 ## Tools Used 🛠️
 
 - Microsoft Power BI 🧩  
