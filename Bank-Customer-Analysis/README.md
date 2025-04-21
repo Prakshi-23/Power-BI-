@@ -2,6 +2,12 @@
 ---
 This project presents a visual analysis of customer data from **HDFC Bank 🏦** using a dynamic and interactive dashboard.
 
+## Dashboard Preview 🖼️
+
+![Bank Dashboard](images/Bank_Customer_Analysis.png)
+
+Here’s a preview of the interactive dashboard showcasing customer demographics and financial data.
+
 ## Dashboard Overview 📊
 
 The dashboard provides key insights into customer demographics, account balances, and financial behavior, such as:
@@ -21,13 +27,6 @@ The dashboard provides key insights into customer demographics, account balances
 - **Balance Trend**: Spikes and patterns over time 📉  
 - **Age Groups**: Young Adults, Middle-aged, Seniors 📊  
 - **Income Brackets**: <50K, 50K-100K, 100K-150K, None 💵  
-
-## Dashboard Preview 🖼️
-
-![Bank Dashboard](images/Bank_Customer_Analysis.png)
-
-Here’s a preview of the interactive dashboard showcasing customer demographics and financial data.
-
 
 ## Tools Used 🛠️
 
