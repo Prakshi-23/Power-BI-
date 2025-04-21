@@ -42,10 +42,6 @@ This project focuses on analyzing pizza sales performance across multiple dimens
 - `pizza_sales_analysis.pbix` – Power BI file  
 - `pizza_sales_data.csv` – Dataset used for analysis  
 
-## 📷 Dashboard - 
-
-![Pizza Sales Dashboard](./pizza_sales_dashboard.png)
-
 ## 🚀 How to Use
 
 1. Clone or download the repository  
