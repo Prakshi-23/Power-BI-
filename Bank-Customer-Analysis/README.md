@@ -24,7 +24,7 @@ The dashboard provides key insights into customer demographics, account balances
 
 ## Dashboard Preview 🖼️
 
-![Bank Dashboard](images/bank_customer_analysis.png)
+![Bank Dashboard](images/Bank_Customer_Analysis.png)
 
 Here’s a preview of the interactive dashboard showcasing customer demographics and financial data.
 
