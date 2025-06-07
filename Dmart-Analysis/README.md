@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your **Dmart Sales Analysis** project, based on the contents of the Power BI dashboard shown in the PDF:
-
----
-
 # 🛒 Dmart Sales Analysis Dashboard
 
 This project presents a **Sales Analysis Dashboard** for Dmart using **Power BI**. It provides insightful visualizations and key metrics to help stakeholders understand customer behavior, order patterns, and revenue trends.
